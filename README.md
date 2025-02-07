@@ -1,4 +1,4 @@
-# Number Filter Utility
+# Number Filter
 
 This C project helps you generate a list of natural numbers and filter out the ones that contain or are divisible by the digit you choose. The way it works is pretty simple: it creates an array of numbers from 1 to 100, checks which ones are divisible by a number you pick, let's say 7 or contain the digit 7, and then saves those filtered numbers to a text file. You'll also get to see both the original and filtered numbers printed right on the console, making it easy to follow along.
 
